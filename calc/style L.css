@@ -1,0 +1,38 @@
+.h-20{
+    height: 20%;
+}
+
+.answer-block{
+    color:#EF9595;
+    background-color: #FCF5ED;
+}
+
+.button-css{
+    color:#EF9595;
+    background-color: #FCF5ED;
+}
+body{
+    background-color:#FCF5ED;
+}
+.button-css:hover{
+    background-color: #EBEF95;
+    cursor: pointer;
+    color: #FCF5ED;
+}
+h2{
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; /* Standard syntax */
+  }
+/* .col{
+    padding-top: 1.4rem;
+    padding-bottom: 1.2rem;
+}
+.col-6{
+    padding-top: 1.4rem;
+    padding-bottom: 1.2rem;
+}
+.col-3{
+    padding-top: 1.4rem;
+    padding-bottom: 1.2rem;
+} */
